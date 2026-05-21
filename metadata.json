@@ -1,0 +1,6 @@
+{
+  "name": "Estrellas Restaurant",
+  "description": "Sistema premium para gestionar mesas, personal, comensales, comandas, menú y finanzas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
